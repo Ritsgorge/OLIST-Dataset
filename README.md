@@ -10,7 +10,10 @@ Data cleaning, analysis and visualization was carried out using PowerBi. Asides 
 # QUESTIONS FOR ANALYSIS
 During analysis, I created a measure to ascertain the Average Order Value (AOV) using the following; 
 
-Average Order Value = DIVIDE(SUM(order_payments[payment_value]), COUNTROWS(VALUES(customers[customer_unique_id]))).
+Average Order Value = DIVIDE(SUM(order_payments[payment_value]), COUNTROWS(VALUES(customers[customer_unique_id])))
+
+![page1](https://user-images.githubusercontent.com/116006674/234847683-f7c7af7b-0020-4cfa-b14f-3e47a626cd0e.png)
+
 
 To help Olist gain better insights into their e-commerce platform and optimize available opportunities for growth, I needed to provide answers to the business questions below: 
 
@@ -29,6 +32,7 @@ To help Olist gain better insights into their e-commerce platform and optimize a
 13: Which product categories have the highest profit margins on Olist, and how can the company increase profitability across different categories? 
 14: How does Olist's marketing spend and channel mix impact sales and customer acquisition costs, and how can the company optimize its marketing strategy to increase fgbRO cvI? 
 15: Geolocation having high customer density. Calculate customer retention rate according to geolocation.
+
 
 
 
