@@ -27,7 +27,7 @@ To help Olist gain better insights into their e-commerce platform and optimize a
 11: Which payment methods are most commonly used by Olist customers, and how does this vary by product category or geographic region? 
 12: How do customer reviews and ratings affect sales and product performance on Olist? 
 13: Which product categories have the highest profit margins on Olist, and how can the company increase profitability across different categories? 
-14: How does Olist's marketing spend and channel mix impact sales and customer acquisition costs, and how can the company optimize its marketing strategy to increase ROI? 
+14: How does Olist's marketing spend and channel mix impact sales and customer acquisition costs, and how can the company optimize its marketing strategy to increase fgbRO cvI? 
 15: Geolocation having high customer density. Calculate customer retention rate according to geolocation.
 
 
