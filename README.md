@@ -34,6 +34,7 @@ To help Olist gain better insights into their e-commerce platform and optimize a
 15: Geolocation having high customer density. Calculate customer retention rate according to geolocation.
 
 
+![page2](https://user-images.githubusercontent.com/116006674/234848179-3c22973a-c9df-4905-8e40-a9bd190a6a21.png)
 
 
 
